@@ -12,7 +12,7 @@ We need to record the product decisions made on this project, including the cont
 
 ## Decision
 
-We will capture Product Decisions in our GitHub repository [link]. We will not capture day-to-day decisions, but those material to the product direction, scope, or approach. Publication in Github allows us to track issues and responses relating to a decision, as well as track the history of changes. 
+We will capture Product Decisions in this repository. We will not capture day-to-day decisions, but those material to the product direction, scope, or approach. Publication in Github allows us to track issues and responses relating to a decision, as well as track the history of changes. 
 
 In particular, we recognise that decisions can be proposed and accepted, as well as deprecated or superseded, as we continue to iterate and learn. 
 
