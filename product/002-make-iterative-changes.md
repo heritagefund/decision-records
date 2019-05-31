@@ -1,10 +1,10 @@
-# 2. Make iterative changes to the existing website
+# 2. Make iterative changes 
 
 Date: 2019-05-30
 
 ## Status
 
-Proposed
+Accepted
 
 ## Context
 
@@ -22,7 +22,7 @@ The value of improved usability outweighs the potential challenge of inconsisten
 
 We will make regular, iterative changes to the live website at [https://www.heritagefund.org.uk](https://www.heritagefund.org.uk) where we identify an opportunity to improve the usability or accessibility for users who are applying for or receiving funding from us. 
 
-We will not make a large suite of changes in a development environment or as prototypes, and wait to deploy these to the live website in a single ‘relaunch’. We will instead deploy prototyped or iterative changes as soon as they have been approved by the Service Owner, or a member of the team that the Service Owner has delegated responsibility to for that purpose. 
+We will not make a large suite of changes held in a development environment or as prototypes, and wait to deploy these to the live website in a single ‘relaunch’. We will instead deploy prototyped or iterative changes as soon as they have been approved by the Service Owner, or a member of the team that the Service Owner has delegated responsibility to for that purpose. 
 
 Approval will be based on user research insights and evidence from data, as well as the priorities set out in [our roadmap](https://miro.com/app/board/o9J_kxuDrZ4=/).
 
