@@ -11,5 +11,5 @@ The National Lottery Heritage Fund has run a procurement process to support the 
 ## Decision 
 The recommendation from the evaluation of systems and providers was supported at all levels and the Project Board approved Salesforce with Methods Business Technology as the selected Providers. 
 
-##Consequences 
+## Consequences 
 The new service will be built using a Salesforce platform with support from Methods Business Technology for the first phase of work. After this it is envisaged that further enhancements will be delivered in house. 
