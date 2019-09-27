@@ -16,7 +16,7 @@ We will capture Product Decisions in this repository. We will not capture day-to
 
 In particular, we recognise that decisions can be proposed and accepted, as well as deprecated or superseded, as we continue to iterate and learn. 
 
-Decisions have the status of ‘Proposed’ until they have been approved by the digital governance group. 
+Decisions have the status of ‘Proposed’ until they have been approved by the project board. 
 
 ## Consequences
 
