@@ -11,6 +11,6 @@ Product and architecture decision records made by the Digital Service Design Tea
 
 ### 4. [Use Salesforce for grant management](product/004-use-Salesforce-grants-management.md)
 
-## Architecture Decision Records
+## Architecture Decision Records
 
 ### 1. [Use of ActionView Components](architecture/001-use-of-actionview-components.md)
