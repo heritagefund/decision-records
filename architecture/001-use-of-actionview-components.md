@@ -11,9 +11,9 @@
 * Decision
 * Consequences
 
-## Status
+## Status
 
-*Accepted*, decided by @stuartmccoll and @paulmsmith on 2020-02-18.
+*Accepted*, decided by [@stuartmccoll](https://github.com/stuartmccoll) and [@paulmsmith](https://github.com/paulmsmith) on 2020-02-18.
 
 ## Context
 
@@ -53,6 +53,6 @@ Given the benefits, we have taken the decision to move forward with the use of A
 
 The consequences of choosing ActionView Components are:
 
-    * further tying ourselves into the Ruby-on-Rails ecosystem. This will make it harder to move to a different framework or language should we decide that this is something we want to pursue at any point.
-    * support for the Gem might cease to exist, although this is unlikely - it has been created by GitHub with the intention of eventually merging into upstream Ruby-on-Rails.
-    * we haven't fully tested the constraints of the framework, so might find that it does not fit a further use case in the future.
+* further tying ourselves into the Ruby-on-Rails ecosystem. This will make it harder to move to a different framework or language should we decide that this is something we want to pursue at any point.
+* support for the Gem might cease to exist, although this is unlikely - it has been created by GitHub with the intention of eventually merging into upstream Ruby-on-Rails.
+* we haven't fully tested the constraints of the framework, so might find that it does not fit a further use case in the future.
