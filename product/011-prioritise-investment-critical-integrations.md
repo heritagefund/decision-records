@@ -1,4 +1,4 @@
-# 11. Prioritise integrationsn with investment-critical systems
+# 11. Prioritise integrations with investment-critical systems
 
 Date: 2019-10-17
 
