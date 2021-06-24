@@ -37,7 +37,7 @@ Scotland is a clearly defined area which has no cross territory projects under �
 
 Additionally, of the three countries, Scotland does not have its own language legislation, or additional Equality Impact Assessment requirements if we decide to make it the first country we roll out on. Wales and Northern Ireland also have much smaller caseloads which will not give us the throughput of projects to allow for fast iteration. 
 
-We believe this approach will have enough applications to allow us to test the service as we need to, whilst being sufficiently distinct from other grant campaigns and small enough in volume to be manageable for the internal users of the new service.  Last F/Y the Scotland team assessed 400 applications of which 300 were as a result of ‘Year of Young People’ campaign. Therefore over the initial three month period we would expect to see up to 100 cases go through the system, likely less, given the drop off in applications under SFF, but giving enough throughput to be able to test and validate assumptions. 
+We believe this approach will have enough applications to allow us to test the service as we need to, whilst being sufficiently distinct from other grant campaigns and small enough in volume to be manageable for the internal users of the new service.  
 
 Crucially it will also enable us to beta test the new internal system and processes for small grants with staff from all roles in Business Delivery, of which Scotland is also representative. This will include testing the training proposals, communication methodology, system functionality and technical considerations of the system. This will allow us to identify any constraints prior to any more extensive roll out. The distribution of the Scotland team and any technical or infrastructure challenges they experience are therefore helpful for us in validating that the service will work at the scale and within all the constraints faced by colleagues at the Fund.  
 
@@ -47,7 +47,7 @@ The work will be supported by continuous active evaluation and user research to 
 
 This means that the readiness of the service for private beta will become a potential dependency for the launch of the marketing campaign if we want to use this as part of the pilot. We will need to work closely with Business Delivery colleagues in Scotland to ensure this dependency is managed effectively, and staff have the information they need to advise and support applicants and prospective applicants.  
 
-We will need to identify if there are key decision makers who need to agree to this proposal not represented within the Project Board, for example Exec, and the timescales they work to. Assumption is that this can be agreed by Sue Bowers and Eilish McGuinness.  
+We will need to identify if there are key decision makers who need to agree to this proposal not represented within the Project Board, for example Executive Board, and the timescales they work to. Assumption is that this can be agreed by the Director of Investment and Executive Director of Business Delivery.  
 
 We will need to undertake some further analysis and set some key updated metrics for our private beta to validate that our understanding of the makeup of this cohort meets the needs we have to be able to proceed to a public beta or extended private beta for other regions, campaigns and open programmes, and to ensure that we can use the private beta to identify any obstacles to scaling, roll out, or further iteration of the service to support the goal of a national service for all grant programmes.  
 
