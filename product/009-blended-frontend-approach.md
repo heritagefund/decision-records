@@ -46,3 +46,6 @@ We will need additional front end development input in the short term to ensure 
 We will need to further test the Salesforce interfaces with staff to maximise usability and accessibility, and identify gaps in guidance or training that we must address. These sessions have already been scheduled to take place on 11th and 16th of December, enabling us to iterate the implementation as necessary before the pilot.  
 
 We will need to test the Communities build with RoSS consultants. This is unlikely to be critical for the pilot launch, so we will aim to schedule this in February, to collect input and scope required iterations before the service scales to other countries and areas, or other grant programmes.  
+
+## Note
+Since this decision was taken, [Salesforce has renamed the 'Communities' platform to 'Digital Experience'](https://help.salesforce.com/articleView?id=000356227&language=en_US&mode=1&type=1)
