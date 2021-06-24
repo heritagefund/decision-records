@@ -25,7 +25,7 @@ We will build a bespoke front end for applicants and grantees.
 
 These interactions are likely to see the greatest degree of iteration over time, through research and design, and will therefore benefit from the increased flexibility and customisation offered by a fully bespoke front end. We will utilise GOV.UK components and tools to ensure our bespoke efforts focus on those parts unique to the Fund and its users, rather than expending effort building the most common interactions across many digital services.  
 
-This user group is not made up of a discrete, known set of named individuals, so our capacity to provide customised training is limited. It’s therefore most important that we build something for these users which is independently usable and accessible, in order to realise the goals of the service and of SFF as a whole around inclusion and simplicity.  
+This user group is not made up of a discrete, known set of named individuals, so our capacity to provide customised training is limited. It’s therefore most important that we build something for these users which is independently usable and accessible, in order to realise the goals of the service and of the [Strategic Funding Framework (SFF)](https://www.heritagefund.org.uk/about/strategic-funding-framework-2019-2024) as a whole around inclusion and simplicity.  
 
 We will use Salesforce’s own user interface for Fund staff.  
 
